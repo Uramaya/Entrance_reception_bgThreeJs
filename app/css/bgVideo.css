@@ -1,0 +1,25 @@
+#bgVideo {
+  position: fixed;
+  right: 0;
+  height: 100%; 
+  z-index: 2;
+}
+#mobile_div {
+  background-color: #7B7373;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  right: 0;
+  margin-top: 0;
+  padding: 0;
+}
+
+.white_bar {
+  width: 100%;
+  position: fixed;
+  top: 0;
+  right: 0;
+  z-index: 10;
+  background-color: #E1D6D8;
+  padding-top: 30px;
+}
