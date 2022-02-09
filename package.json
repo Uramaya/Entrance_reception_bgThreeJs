@@ -14,7 +14,7 @@
     "glsl-fxaa": "^3.0.0",
     "incremental-convex-hull": "^1.0.1",
     "min-signal": "^0.0.5",
-    "mout": "0.11",
+    "mout": "1.2",
     "quick-loader": "^0.1.4",
     "raf": "3.0.0",
     "stats.js": "mrdoob/stats.js",
